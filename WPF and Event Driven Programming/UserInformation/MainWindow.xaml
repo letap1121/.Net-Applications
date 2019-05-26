@@ -1,0 +1,41 @@
+﻿<Window x:Class="UserInformation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Column="0" Grid.Row="0" Content="First Name"></Label>
+        <TextBox Name="txtFirstName" Grid.Column="1" Grid.Row="0" Width="200">
+        </TextBox>
+        <Label Content="Last Name"  Grid.Row="1" />
+        <TextBox Name="txtLastName" Grid.Column="1" Grid.Row="1" Width="200">
+        </TextBox>
+        <Label Content="Age"  Grid.Row="2" />
+        <TextBox Name="txtAge" Grid.Column="1" Grid.Row="2" Width="200">
+        </TextBox>
+        <Label Content="Interest(s)"  Grid.Row="3" />
+        <ListBox Grid.Column="1" Grid.Row="3" Name="lstInterests">
+            <CheckBox Content="Computing"></CheckBox>
+            <CheckBox Content="Cinema"></CheckBox>
+            <CheckBox Content="Design"></CheckBox>
+        </ListBox>
+        <Label Content="Gender"  Grid.Row="4" />
+        <StackPanel Grid.Row="4" Grid.Column="1" Name="stkGender">
+            <RadioButton GroupName="Gender" Content="Male" />
+            <RadioButton GroupName="Gender" Content="Female" />
+            <RadioButton GroupName="Gender" Content="Prefer not to say" IsChecked="True"/>
+        </StackPanel>
+        <Button Name="btnSubmit" Content="Submit" Grid.Column="1" Grid.Row="5" Margin="0,5,0,0" Click="btnSubmit_Click"></Button>
+    </Grid>
+</Window>
