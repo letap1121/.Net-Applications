@@ -1,0 +1,74 @@
+﻿/*Part 2 Style */
+
+div#mainBody
+{
+	width:800px;
+		
+}
+
+header
+{
+	height:100px;
+	background-color:teal;
+	color:white;
+}
+
+header img
+{
+	float:left;
+}
+
+header hgroup
+{
+	float:left;
+}
+
+header hgroup  h1
+{
+	height:20px;
+}
+
+header hgroup  h2
+{
+	margin-top:0px;
+}
+
+section
+{
+	height:450px;
+}
+
+section p
+{
+	font-size:x-large;
+	font-weight:bold;
+}
+
+footer
+{
+	height:80px;
+	background-color:teal;
+	color:white;
+}
+
+footer p
+{
+	padding-top:32px;
+}
+
+/*Part 3 and Part 4 Style*/
+
+section#serverInfo ul li.plusIcon
+{
+	list-style-image: url("../images/plus.png");
+}
+
+section#serverInfo ul li.minusIcon
+{
+	list-style-image: url("../images/minus.png");
+}
+
+section#serverInfo ol li.circleIcon
+{
+	list-style:circle;
+}

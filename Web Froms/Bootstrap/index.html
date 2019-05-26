@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/united/bootstrap.min.css">
+<link rel="stylesheet" href="site.css">
+<script async src="https://code.jquery.com/jquery-2.2.3.js"></script>
+<script async src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <title>My ASP.NET Application</title>
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+	 <div class="jumbotron">
+    <h1>Simple Bootstrap</h1>
+    <p>Here is a demo of how to create a modal dialog. More comming!</p>
+  </div>
+        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#TipModal">Open Dialog</button>
+
+
+<div id="TipModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">This is a modal dialog</h4>
+            </div>
+            <div class="modal-body">
+
+                    <fieldset class="form-group">
+                       This is a simple form group
+                    </fieldset>
+                    <fieldset class="form-group">
+                       another form group
+                    </fieldset>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+        <hr />
+        <footer>
+            <p>My ASP.NET Application</p>
+        </footer>
+    </div>
+
+
+</body>
+</html>
