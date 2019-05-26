@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style/style.css" type="text/css">
+<title>Examples Index</title>
+<style type="text/css">
+div#content table,div#content th,div#content td{border:1px solid #bbb;}th{background-color:#ededed;color:#636363;text-align:left;}td,th{padding-top:10px;padding-bottom:10px;padding-right:8px;padding-left:8px;}td{color:#2a2a2a;vertical-align:top;}.topic a,.topic a:link{text-decoration:none;color:#1364c4;}.topic a,.topic a:link{text-decoration:none;color:#00709f;}a:link,a:hover,a:visited{text-decoration:none;}.input,.label{font-weight:700;}
+.codeSnippetContainer{min-width:260px;clear:both;}.codeSnippetContainerTabs{vertical-align:middle;height:23px;position:relative;z-index:1;}.codeSnippetContainerCodeContainer{border-left:solid 1px #939393;border-bottom:solid 1px #939393;border-right:solid 1px #939393;border-top:solid 1px #939393;clear:both;margin-bottom:12px;position:relative;top:-1px;}.codeSnippetToolBar{width:auto;height:auto;}.codeSnippetToolBarText{float:right;top:-8px;position:relative;background-color:#fff;width:auto;padding-left:0;padding-right:0;height:0;vertical-align:top;}.codeSnippetContainerCode{width:auto;margin:0;padding-right:21px;padding-left:21px;padding-top:10px;padding-bottom:10px;}.codeSnippetContainerCode div{padding:0;margin:0;}.codeSnippetContainerCode pre{padding:5px;margin:0;font-family:Consolas,Courier,monospace!important;font-style:normal;font-weight:normal;overflow:auto;word-wrap:normal;}
+
+
+.auto-style1 {
+	font-weight: normal;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<h1>IT 330</h1>
+<h2>Enums</h2>
+
+<h3>Background</h3>
+<p>
+Enums, or Enumerations, are strongly typed &nbsp;constants that make our code more 
+robust and easier to read.</p>
+<p>
+Per MSDN: </p>
+<p>
+Usually it is best to define an enum directly within a namespace so that all 
+classes in the namespace can access it with equal convenience. However, an enum 
+can also be nested within a class or struct.</p>
+<p>
+By default, the first enumerator has the value 0, and the value of each 
+successive enumerator is increased by 1. For example, in the following 
+enumeration, <span class="code">Sat</span> is <span class="code">0</span>,
+<span class="code">Sun</span> is <span class="code">1</span>, <span class="code">
+Mon</span> is <span class="code">2</span>, and so forth.</p>
+<p>
+<em>enum Days {Sat, Sun, Mon, Tue, Wed, Thu, Fri};</em></p>
+<p>
+Enumerators can use initializers to override the default values, as shown in the 
+following example.</p>
+<p>
+enum Days {Sat=1, Sun, Mon, Tue, Wed, Thu, Fri};</p>
+<h3>Samples</h3>
+<p>
+System.Windows.TextAlignment Enum<br>
+<table border="1" cellpadding="5">
+	<tr>
+		<th class="auto-style1">Enum Label</th>
+		<th class="auto-style1">Value</th>
+	</tr>
+	<tr>
+		<td>Left</td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>Right</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>Center</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>Justify</td>
+		<td>3</td>
+	</tr>
+	</table>
+</p>
+
+System.Windows.WindowState Enum<br/><br />
+<table border="1" cellpadding="5">
+	<tr>
+		<th class="auto-style1">Enum Label</th>
+		<th class="auto-style1">Value</th>
+	</tr>
+	<tr>
+		<td>Normal</td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>Minimized</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>Maximized</td>
+		<td>2</td>
+	</tr>
+	</table>
+<h3>Example</h3>
+    <p>EnumExample</p>
+</body>
+
+</html>

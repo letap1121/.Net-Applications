@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style/style.css" type="text/css">
+<title>Examples Index</title>
+<style type="text/css">
+div#content table,div#content th,div#content td{border:1px solid #bbb;}th{background-color:#ededed;color:#636363;text-align:left;}td,th{padding-top:10px;padding-bottom:10px;padding-right:8px;padding-left:8px;}td{color:#2a2a2a;vertical-align:top;}.topic a,.topic a:link{text-decoration:none;color:#1364c4;}.topic a,.topic a:link{text-decoration:none;color:#00709f;}a:link,a:hover,a:visited{text-decoration:none;}.input,.label{font-weight:700;}
+.codeSnippetContainer{min-width:260px;clear:both;}.codeSnippetContainerTabs{vertical-align:middle;height:23px;position:relative;z-index:1;}.codeSnippetContainerCodeContainer{border-left:solid 1px #939393;border-bottom:solid 1px #939393;border-right:solid 1px #939393;border-top:solid 1px #939393;clear:both;margin-bottom:12px;position:relative;top:-1px;}.codeSnippetToolBar{width:auto;height:auto;}.codeSnippetToolBarText{float:right;top:-8px;position:relative;background-color:#fff;width:auto;padding-left:0;padding-right:0;height:0;vertical-align:top;}.codeSnippetContainerCode{width:auto;margin:0;padding-right:21px;padding-left:21px;padding-top:10px;padding-bottom:10px;}.codeSnippetContainerCode div{padding:0;margin:0;}.codeSnippetContainerCode pre{padding:5px;margin:0;font-family:Consolas,Courier,monospace!important;font-style:normal;font-weight:normal;overflow:auto;word-wrap:normal;}
+
+
+</style>
+</head>
+
+<body>
+
+<h1>IT 330</h1>
+<h2>Generics</h2>
+
+<h3>Background</h3>
+<p>Generics remove the need for casting. As we have seen, ArrayLists, are great 
+with managing a large set of objects.&nbsp; However, everything is stored as an 
+"Object", there is a performance penalty up and down casting every time 
+you add and remove an object from the collection. Generics are one the many 
+great features added in .NET 2.0 that made C# a very powerful language. Generics 
+allow type checking and the related benefits to integrate into the collection 
+classes.&nbsp; We'll see some more advanced C# features in future lectures.</p>
+<ul>
+	<li>Use generic types to maximize code reuse, type safety, and performance.
+
+    	</li>
+		<li>The most common use of generics is to create collection classes.
+		</li>
+		<li>The .NET Framework class library contains several new generic collection classes in the System.Collections.Generic namespace. These should be used whenever possible instead of classes such as ArrayList in the System.Collections namespace.
+
+    	</li>
+		<li>You can create your own generic interfaces, classes, methods, events and delegates.</li>
+		<li>Generic classes may be constrained to enable access to methods on particular data types</li>
+		<li>Information on the types that are used in a generic data type may be obtained at run-time by using reflection.
+		</li>
+</ul>
+
+<h3>Initializtion</h3>
+<p>
+Generic Collections are always initialized by specifying a type:<br/>
+System.Collections.Generic.List&lt;T&gt; the T is a stand in for the type.  We'll explore this as we look at the Collections.
+</p>
+</body>
+
+</html>

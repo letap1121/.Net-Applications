@@ -1,0 +1,152 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style/style.css" type="text/css">
+<title>Examples Index</title>
+<style type="text/css">
+div#content table,div#content th,div#content td{border:1px solid #bbb;}th{background-color:#ededed;color:#636363;text-align:left;}td,th{padding-top:10px;padding-bottom:10px;padding-right:8px;padding-left:8px;}td{color:#2a2a2a;vertical-align:top;}.topic a,.topic a:link{text-decoration:none;color:#1364c4;}.topic a,.topic a:link{text-decoration:none;color:#00709f;}a:link,a:hover,a:visited{text-decoration:none;}.input,.label{font-weight:700;}
+.codeSnippetContainer{min-width:260px;clear:both;}.codeSnippetContainerTabs{vertical-align:middle;height:23px;position:relative;z-index:1;}.codeSnippetContainerCodeContainer{border-left:solid 1px #939393;border-bottom:solid 1px #939393;border-right:solid 1px #939393;border-top:solid 1px #939393;clear:both;margin-bottom:12px;position:relative;top:-1px;}.codeSnippetToolBar{width:auto;height:auto;}.codeSnippetToolBarText{float:right;top:-8px;position:relative;background-color:#fff;width:auto;padding-left:0;padding-right:0;height:0;vertical-align:top;}.codeSnippetContainerCode{width:auto;margin:0;padding-right:21px;padding-left:21px;padding-top:10px;padding-bottom:10px;}.codeSnippetContainerCode div{padding:0;margin:0;}.codeSnippetContainerCode pre{padding:5px;margin:0;font-family:Consolas,Courier,monospace!important;font-style:normal;font-weight:normal;overflow:auto;word-wrap:normal;}
+
+
+</style>
+</head>
+
+<body>
+
+<h1>IT 330</h1>
+<h2>Casting and Conversion</h2>
+
+<h3>Background</h3>
+<p>
+Casting and Conversion from one type to another are an important part of any 
+programming language.&nbsp; C#, being a type safe language, has rules that have 
+to be followed when converting between types.&nbsp; Lets explore these types and 
+how they behave in these situations.</p>
+
+<ul type="disc">
+<li>Numeric datatypes can be converted from one type to another by using a Java-style cast.<br />
+<ul>
+<pre>
+double x = 4.38;
+int n = (int) y; 
+</pre>
+</ul></li>
+
+<li>Numeric casts can be either <strong>widening</strong> or <strong>narrowing</strong>.
+<br />&nbsp;</li>
+
+<li><strong>A widening cast</strong> is guarenteed not to lose information.
+<br />&nbsp;</li>
+
+	<li>A narrowing cast risks losing information.  For example in<br />
+	<ul>
+		<pre>short x = 10000;
+byte y = (byte) x;
+</pre>
+	</ul>
+	</li>
+	<li>An enum can always be cast to its underlying int type or any type to which int widens.
+	<br />&nbsp;</li>
+	<li>A cast is required for a narrowing conversion; a cast is not needed for a 
+widening conversion:<br />
+	<ul>
+		<pre>int n = 169;
+double x = n; 
+long y = n;
+</pre>
+	</ul>
+	</li>
+	<li>We already know about int.Parse and int.TryParse methods.  The Parse and TryParse 
+methods also exist for these numeric types:<br />&nbsp;<br />
+	<ul>
+long&nbsp; short&nbsp; byte&nbsp; double&nbsp; float&nbsp; decimal
+	</ul>
+	<br /></li>
+	<li>Some conversion functions of the System.Convert class:<br />&nbsp;<br />
+	<ul>
+ToBase64CharArray&nbsp; ToBase64String&nbsp; ToBoolean&nbsp; ToByte&nbsp; ToChar&nbsp; ToDate<br />&nbsp;<br />ToDateTime&nbsp; ToDecimal&nbsp; ToDouble&nbsp; ToInt16&nbsp; ToInt32&nbsp; ToInt64&nbsp; ToSByte<br />&nbsp;<br />ToSingle&nbsp; ToString&nbsp; ToUInt16&nbsp; ToUInt32&nbsp; ToUInt64
+	</ul>
+	</li>
+
+</ul>
+
+<h3>Widening Casts</h3>
+
+<table border="1" cellpadding="5">
+<tr> <th>Data type</th>  <th>Widens to data types<sup size="-1">1</sup></th> </tr>  
+
+<tr> <td>sbyte</td> <td>sbyte, short, int, long, decimal, float, double</td> </tr>
+ 
+<tr> <td>byte</td> <td>byte, short, ushort, int, uint, long, ulong, 
+decimal, float, double</td> </tr>
+ 
+<tr> <td>short</td> <td> short, int, long, decimal, float, double</td> </tr>
+ 
+<tr> <td>ushort</td> <td>ushort, int, uint, long, ulong, decimal, 
+float, double</td> </tr>
+ 
+<tr> <td>int</td> <td>int, long, decimal, float, 
+double<sup size="-1">2</sup></td> </tr>
+ 
+<tr> <td>uint</td> <td>uint, long, ulong, decimal, float, 
+double<sup size="-1">2</sup></td> </tr>
+ 
+<tr> <td>long</td> <td>long, decimal, float, double<sup size="-1">2</sup></td> </tr>
+ 
+<tr> <td>ulong</td> <td>ulong, decimal, float, double<sup size="-1">2</sup></td> </tr>
+ 
+<tr> <td>decimal</td> <td>decimal, float, double<sup size="-1">2</sup></td> </tr>
+ 
+<tr> <td>float</td> <td>float, double</td> </tr>
+ 
+<tr> <td>double</td> <td>double</td> </tr> 
+ 
+<tr> <td>Any enum</td> <td>Its underlying integer type and any type 
+to which it widens</td> </tr>
+ 
+<tr> <td>char</td> <td>char, string</td> </tr>
+ 
+<tr> <td>char[ ]</td> <td>char[ ], string</td> </tr>
+ 
+<tr> <td>Any type</td> <td>object</td> </tr>
+  
+<tr> <td>null</td> <td>Any data or object type</td> </tr>
+</table><p>
+ 
+
+<p><sup size="-1">1</sup> By definition, every data type widens to itself.</p>
+
+<p><sup size="-1">2</sup> Conversions from int, uint, long, ulong, or decimal to 
+float or double might result in loss of precision, but never in loss of magnitude. 
+In this sense they do not incur information loss.</p>
+
+<p>Widening conversions always succeed at run time and never incur data loss. 
+They are always performed implicitly, even if no cast is used.</p>
+
+<h3>Narrowing Casts</h3>
+
+<p>These are the standard narrowing conversions:</p>
+
+<ul type=disc>
+<li>The reverse directions of the widening conversions 
+in the preceding table (except that every type widens to itself).
+<br />&nbsp;</li>
+
+<li>Conversions in either direction between Boolean and any numeric type.
+<br />&nbsp;</li>
+
+<li>Conversions from any numeric type to any enumerated type (enum).
+<br />&nbsp;</li>
+
+<li>Narrowing conversions do not always succeed at run time, and can fail 
+or incur data loss. An error occurs if the destination data type cannot 
+receive the value being converted. For example, a numeric conversion can 
+result in an overflow.</li>
+</ul>
+    <h3>Example</h3>
+    <p>Casting</p>
+</body>
+
+</html>

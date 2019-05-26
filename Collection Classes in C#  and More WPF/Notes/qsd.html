@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style/style.css" type="text/css">
+<title>Examples Index</title>
+<style type="text/css">
+div#content table,div#content th,div#content td{border:1px solid #bbb;}th{background-color:#ededed;color:#636363;text-align:left;}td,th{padding-top:10px;padding-bottom:10px;padding-right:8px;padding-left:8px;}td{color:#2a2a2a;vertical-align:top;}.topic a,.topic a:link{text-decoration:none;color:#1364c4;}.topic a,.topic a:link{text-decoration:none;color:#00709f;}a:link,a:hover,a:visited{text-decoration:none;}.input,.label{font-weight:700;}
+.codeSnippetContainer{min-width:260px;clear:both;}.codeSnippetContainerTabs{vertical-align:middle;height:23px;position:relative;z-index:1;}.codeSnippetContainerCodeContainer{border-left:solid 1px #939393;border-bottom:solid 1px #939393;border-right:solid 1px #939393;border-top:solid 1px #939393;clear:both;margin-bottom:12px;position:relative;top:-1px;}.codeSnippetToolBar{width:auto;height:auto;}.codeSnippetToolBarText{float:right;top:-8px;position:relative;background-color:#fff;width:auto;padding-left:0;padding-right:0;height:0;vertical-align:top;}.codeSnippetContainerCode{width:auto;margin:0;padding-right:21px;padding-left:21px;padding-top:10px;padding-bottom:10px;}.codeSnippetContainerCode div{padding:0;margin:0;}.codeSnippetContainerCode pre{padding:5px;margin:0;font-family:Consolas,Courier,monospace!important;font-style:normal;font-weight:normal;overflow:auto;word-wrap:normal;}
+
+
+</style>
+</head>
+
+<body>
+
+<h1>IT 330</h1>
+<h2>Queues, Stacks and Dictionaries</h2>
+
+<h3>Background</h3>
+<p>There are speciality Collections which are useful to explore and are 
+frequently used.</p>
+<h3>Queues</h3>
+<p>
+A first-in, first-out collection of objects.</p>
+<pre>
+ Queue&lt;string&gt; queue = new Queue&lt;string&gt;();
+//Add Item to Queue
+queue.Enqueue("A");
+//Remove item from Queue
+Console.WriteLine(queue.Dequeue());
+</pre>
+<p>See Example: QueueExample</p>
+<h3>Stacks</h3>
+<p>
+Represents a simple last-in-first-out (LIFO) collection of objects.</p>
+<pre>
+//Initialize Stack
+Stack&lt;string&gt; stack = new Stack&lt;string&gt;();
+//Add Item to Stack
+stack.Push("A");
+//Remove item from Stack
+Console.WriteLine(stack.Pop());</pre>
+<p>See Example: StackExample</p>
+<p>To see a visual example of the difference between stack and queue see 
+Example: StackVsQueueWPF.</p>
+<h3>Dictionaries</h3>
+<p>
+Represents a collection of keys (unique) and values. 
+Main advantage is that a Dictionary provides for quick lookups based on key. </p>
+<p>
+Code fragements:</p>
+<pre>
+Dictionary&lt;String, int&gt; wordDictionary = new Dictionary&lt;string, int&gt;();
+wordDictionary.Add(word, 1);
+//Loop through each key in the dictionary
+foreach(String word in wordDictionary.Keys)
+
+</pre>
+<p>See Example: WordCount</p>
+</body>
+
+</html>

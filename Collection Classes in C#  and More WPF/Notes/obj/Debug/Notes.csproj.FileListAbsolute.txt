@@ -1,0 +1,31 @@
+C:\Users\azoko\Desktop\Class3\Notes\bin\Notes.dll.config
+C:\Users\azoko\Desktop\Class3\Notes\bin\Notes.dll
+C:\Users\azoko\Desktop\Class3\Notes\bin\Notes.pdb
+C:\Users\azoko\Desktop\Class3\Notes\obj\Debug\Notes.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Class3\Notes\obj\Debug\Notes.dll
+C:\Users\azoko\Desktop\Class3\Notes\obj\Debug\Notes.pdb
+F:\OneDrive\Teaching\IT 330\Class3\Notes\bin\Notes.dll.config
+F:\OneDrive\Teaching\IT 330\Class3\Notes\bin\Notes.dll
+F:\OneDrive\Teaching\IT 330\Class3\Notes\bin\Notes.pdb
+F:\OneDrive\Teaching\IT 330\Class3\Notes\obj\Debug\Notes.csprojResolveAssemblyReference.cache
+F:\OneDrive\Teaching\IT 330\Class3\Notes\obj\Debug\Notes.dll
+F:\OneDrive\Teaching\IT 330\Class3\Notes\obj\Debug\Notes.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\Notes\bin\Notes.dll.config
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\Notes\bin\Notes.dll
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\Notes\bin\Notes.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\Notes\obj\Debug\Notes.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\Notes\obj\Debug\Notes.dll
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\Notes\obj\Debug\Notes.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\Notes\bin\Notes.dll.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\Notes\bin\Notes.dll
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\Notes\bin\Notes.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\Notes\obj\Debug\Notes.csprojResolveAssemblyReference.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\Notes\obj\Debug\Notes.dll
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\Notes\obj\Debug\Notes.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\Notes\bin\Notes.dll.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\Notes\bin\Notes.dll
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\Notes\bin\Notes.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\Notes\obj\Debug\Notes.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\Notes\obj\Debug\Notes.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\Notes\obj\Debug\Notes.dll
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\Notes\obj\Debug\Notes.pdb

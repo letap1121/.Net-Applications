@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style/style.css" type="text/css">
+<title>Examples Index</title>
+<style type="text/css">
+div#content table,div#content th,div#content td{border:1px solid #bbb;}th{background-color:#ededed;color:#636363;text-align:left;}td,th{padding-top:10px;padding-bottom:10px;padding-right:8px;padding-left:8px;}td{color:#2a2a2a;vertical-align:top;}.topic a,.topic a:link{text-decoration:none;color:#1364c4;}.topic a,.topic a:link{text-decoration:none;color:#00709f;}a:link,a:hover,a:visited{text-decoration:none;}.input,.label{font-weight:700;}
+.codeSnippetContainer{min-width:260px;clear:both;}.codeSnippetContainerTabs{vertical-align:middle;height:23px;position:relative;z-index:1;}.codeSnippetContainerCodeContainer{border-left:solid 1px #939393;border-bottom:solid 1px #939393;border-right:solid 1px #939393;border-top:solid 1px #939393;clear:both;margin-bottom:12px;position:relative;top:-1px;}.codeSnippetToolBar{width:auto;height:auto;}.codeSnippetToolBarText{float:right;top:-8px;position:relative;background-color:#fff;width:auto;padding-left:0;padding-right:0;height:0;vertical-align:top;}.codeSnippetContainerCode{width:auto;margin:0;padding-right:21px;padding-left:21px;padding-top:10px;padding-bottom:10px;}.codeSnippetContainerCode div{padding:0;margin:0;}.codeSnippetContainerCode pre{padding:5px;margin:0;font-family:Consolas,Courier,monospace!important;font-style:normal;font-weight:normal;overflow:auto;word-wrap:normal;}
+
+
+</style>
+</head>
+
+<body>
+
+<h1>IT 330</h1>
+<h2>Lists</h2>
+
+<h3>Background</h3>
+<p>Strongly typed collection of objects that can be accessed by index. Provides methods to search, sort, and manipulate lists.</p>
+<p>Other than a few specific scenarios (bit shifting and stream manipulation), 
+you really want to use Lists over Arrays.&nbsp; Lists offer many helpful methods 
+to work on objects in the collection, type safety and the ability to resize.</p>
+<h3>Initialize List</h3>
+<p>
+Notice how we initialize a list of type string:<pre>
+	    List&lt;string&gt; cities = new List&lt;string&gt;();
+            cities.Add("Chicago");
+            cities.Add("San Diego");
+            cities.Add("Atlanta");
+            cities.Add("Boston");
+            cities.Add("Seattle");
+            cities.Add("Dallas");
+            cities.Add("Kalamazoo");
+</pre>
+The type is defined between the &lt;&gt;.&nbsp; What if you wanted a list of Person 
+objects?<pre>
+	List&lt;Person&gt; cities = new List&lt;Person&gt;();
+</pre>
+<p>List has methods Sort() and Reverse() to reorder the collection. Ordering 
+objects requires you to create a comparer object that implements ICompare.&nbsp; 
+We'll see some more advanced C# features called LINQ that makes it easy to query 
+and manipulate collections of objects in a future talk.</p>
+<h3>Examples</h3>
+    <p>ListExample, DisplayPersonsWPF</p>
+</body>
+
+</html>

@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style/style.css" type="text/css">
+<title>Examples Index</title>
+<style type="text/css">
+div#content table,div#content th,div#content td{border:1px solid #bbb;}th{background-color:#ededed;color:#636363;text-align:left;}td,th{padding-top:10px;padding-bottom:10px;padding-right:8px;padding-left:8px;}td{color:#2a2a2a;vertical-align:top;}.topic a,.topic a:link{text-decoration:none;color:#1364c4;}.topic a,.topic a:link{text-decoration:none;color:#00709f;}a:link,a:hover,a:visited{text-decoration:none;}.input,.label{font-weight:700;}
+.codeSnippetContainer{min-width:260px;clear:both;}.codeSnippetContainerTabs{vertical-align:middle;height:23px;position:relative;z-index:1;}.codeSnippetContainerCodeContainer{border-left:solid 1px #939393;border-bottom:solid 1px #939393;border-right:solid 1px #939393;border-top:solid 1px #939393;clear:both;margin-bottom:12px;position:relative;top:-1px;}.codeSnippetToolBar{width:auto;height:auto;}.codeSnippetToolBarText{float:right;top:-8px;position:relative;background-color:#fff;width:auto;padding-left:0;padding-right:0;height:0;vertical-align:top;}.codeSnippetContainerCode{width:auto;margin:0;padding-right:21px;padding-left:21px;padding-top:10px;padding-bottom:10px;}.codeSnippetContainerCode div{padding:0;margin:0;}.codeSnippetContainerCode pre{padding:5px;margin:0;font-family:Consolas,Courier,monospace!important;font-style:normal;font-weight:normal;overflow:auto;word-wrap:normal;}
+
+
+</style>
+</head>
+
+<body>
+
+<h1>IT 330</h1>
+<h2>Arrays</h2>
+
+<h3>Background</h3>
+<p>
+An array is a fixed sized collection of items of one type that is accessible 
+through its index number.&nbsp; Arrays are a core component of most programming 
+languages.</p>
+
+<h3>Classic Arrays</h3>
+<p>Arrays are declared with type followed by [].&nbsp; Arrays are fixed length 
+so if you need to resize, you need to create a new one.</p>
+<p>int[] items = new int[3];<br>//Set each item in the array<br>items[0] = 5;<br>
+items[1] = 2;<br>items[2] = 7;</p>
+<p>Arrays are very fast and easy to work with as long as you don't get into a 
+resize situation.</p>
+    <p>Examples: SimpleArrays</p>
+
+<h3>ArrayList</h3>
+<p>Not being able to resize an array can be problematic.&nbsp; ArrayLists are a 
+flexible alternative that allow you to add and remove items as you need them.&nbsp; 
+Main drawback to ArrayLists is that they only store the object type.&nbsp; You 
+have to explicitly cast all the objects stored in the ArrayList back to its core 
+type in order to use them.</p>
+<p>private ArrayList col = new ArrayList();</p>
+<p>//Adding a new Person to the list <br/>col.Add(new Person());</p>
+<p>//Notice the explicit cast when obtaining the item<br/>Person p = (Person)col[i];</p>
+<p>One of the advantages of ArrayList is you can contain multiple types in the 
+collection.&nbsp; You need to take special care when accessing the items.</p>
+
+<h3>Summary</h3>
+<ul>
+	<li>Arrays are strongly typed
+</li>
+	<li>ArrayList is not strongly typed.
+</li>
+	<li>Items in Arrays have to be of same data type (int, string, or any class).
+	</li>
+	<li>Items in ArrayList can contain objects of any type.  However, you have to manually cast each item.
+	</li>
+	<li>Arrays are fixed size.
+</li>
+	<li>ArrayList can grow and shrink during runtime. </li>
+</ul>
+<p>With C# 2.0, we now have better infrastructure for Collection Classes 
+that overcome some of the limitations of ArrayList.</p>
+</body>
+
+</html>
