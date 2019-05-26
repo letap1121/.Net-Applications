@@ -1,0 +1,88 @@
+C:\Users\Anthony\Desktop\Class2\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\Anthony\Desktop\Class2\Calendar\bin\Debug\Calendar.exe
+C:\Users\Anthony\Desktop\Class2\Calendar\bin\Debug\Calendar.pdb
+C:\Users\Anthony\Desktop\Class2\Calendar\obj\Debug\MainWindow.baml
+C:\Users\Anthony\Desktop\Class2\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\Anthony\Desktop\Class2\Calendar\obj\Debug\App.g.cs
+C:\Users\Anthony\Desktop\Class2\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\Anthony\Desktop\Class2\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\Anthony\Desktop\Class2\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Class2\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\Class2\Calendar\obj\Debug\Calendar.exe
+C:\Users\Anthony\Desktop\Class2\Calendar\obj\Debug\Calendar.pdb
+C:\Users\azoko\Desktop\Class2\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\azoko\Desktop\Class2\Calendar\bin\Debug\Calendar.exe
+C:\Users\azoko\Desktop\Class2\Calendar\bin\Debug\Calendar.pdb
+C:\Users\azoko\Desktop\Class2\Calendar\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Class2\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Class2\Calendar\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Class2\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\azoko\Desktop\Class2\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\azoko\Desktop\Class2\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\azoko\Desktop\Class2\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\Class2\Calendar\obj\Debug\Calendar.exe
+C:\Users\azoko\Desktop\Class2\Calendar\obj\Debug\Calendar.pdb
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\Calendar\bin\Debug\Calendar.exe
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\Calendar\bin\Debug\Calendar.pdb
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\Calendar\obj\Debug\MainWindow.baml
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\Calendar\obj\Debug\App.g.cs
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\Calendar\obj\Debug\Calendar.exe
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\Calendar\obj\Debug\Calendar.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\Calendar\bin\Debug\Calendar.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\Calendar\bin\Debug\Calendar.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\Calendar\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\Calendar\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\Calendar\obj\Debug\Calendar.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\Calendar\obj\Debug\Calendar.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\obj\Debug\Calendar.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\obj\Debug\Calendar.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\bin\Debug\Calendar.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\bin\Debug\Calendar.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\obj\Debug\MainWindow.baml
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\obj\Debug\App.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\bin\Debug\Calendar.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\bin\Debug\Calendar.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\obj\Debug\Calendar.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\Calendar\obj\Debug\Calendar.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\bin\Debug\Calendar.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\bin\Debug\Calendar.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\obj\Debug\MainWindow.baml
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\obj\Debug\App.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\obj\Debug\Calendar.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\Calendar\obj\Debug\Calendar.pdb
