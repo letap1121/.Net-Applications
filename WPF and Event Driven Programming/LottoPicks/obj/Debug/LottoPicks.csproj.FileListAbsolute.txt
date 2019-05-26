@@ -1,0 +1,41 @@
+C:\Users\Anthony\Desktop\Class2\LottoPicks\bin\Debug\LottoPicks.exe.config
+C:\Users\Anthony\Desktop\Class2\LottoPicks\bin\Debug\LottoPicks.exe
+C:\Users\Anthony\Desktop\Class2\LottoPicks\bin\Debug\LottoPicks.pdb
+C:\Users\Anthony\Desktop\Class2\LottoPicks\obj\Debug\LottoPicks.exe
+C:\Users\Anthony\Desktop\Class2\LottoPicks\obj\Debug\LottoPicks.pdb
+C:\Users\azoko\Desktop\Class2\LottoPicks\bin\Debug\LottoPicks.exe.config
+C:\Users\azoko\Desktop\Class2\LottoPicks\bin\Debug\LottoPicks.exe
+C:\Users\azoko\Desktop\Class2\LottoPicks\bin\Debug\LottoPicks.pdb
+C:\Users\azoko\Desktop\Class2\LottoPicks\obj\Debug\LottoPicks.exe
+C:\Users\azoko\Desktop\Class2\LottoPicks\obj\Debug\LottoPicks.pdb
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\LottoPicks\bin\Debug\LottoPicks.exe.config
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\LottoPicks\bin\Debug\LottoPicks.exe
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\LottoPicks\bin\Debug\LottoPicks.pdb
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\LottoPicks\obj\Debug\LottoPicks.exe
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\LottoPicks\obj\Debug\LottoPicks.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\LottoPicks\bin\Debug\LottoPicks.exe.config
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\LottoPicks\bin\Debug\LottoPicks.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\LottoPicks\bin\Debug\LottoPicks.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\LottoPicks\obj\Debug\LottoPicks.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\LottoPicks\obj\Debug\LottoPicks.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\LottoPicks\obj\Debug\LottoPicks.csprojResolveAssemblyReference.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\LottoPicks\bin\Debug\LottoPicks.exe.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\LottoPicks\obj\Debug\LottoPicks.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\LottoPicks\obj\Debug\LottoPicks.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\LottoPicks\bin\Debug\LottoPicks.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\LottoPicks\bin\Debug\LottoPicks.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\LottoPicks\obj\Debug\LottoPicks.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\LottoPicks\bin\Debug\LottoPicks.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\LottoPicks\bin\Debug\LottoPicks.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\LottoPicks\bin\Debug\LottoPicks.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\LottoPicks\obj\Debug\LottoPicks.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\LottoPicks\obj\Debug\LottoPicks.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\LottoPicks\obj\Debug\LottoPicks.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\LottoPicks\obj\Debug\LottoPicks.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\LottoPicks\bin\Debug\LottoPicks.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\LottoPicks\bin\Debug\LottoPicks.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\LottoPicks\bin\Debug\LottoPicks.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\LottoPicks\obj\Debug\LottoPicks.csprojAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\LottoPicks\obj\Debug\LottoPicks.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\LottoPicks\obj\Debug\LottoPicks.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\LottoPicks\obj\Debug\LottoPicks.pdb
