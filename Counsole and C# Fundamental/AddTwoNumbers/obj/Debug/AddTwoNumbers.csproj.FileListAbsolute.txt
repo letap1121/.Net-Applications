@@ -1,0 +1,31 @@
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.csprojResolveAssemblyReference.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.csprojAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb
