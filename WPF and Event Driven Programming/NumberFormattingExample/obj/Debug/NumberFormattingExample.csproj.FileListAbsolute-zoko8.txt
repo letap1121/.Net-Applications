@@ -1,0 +1,5 @@
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\NumberFormattingExample\bin\Debug\NumberFormattingExample.exe.config
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\NumberFormattingExample\bin\Debug\NumberFormattingExample.exe
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\NumberFormattingExample\bin\Debug\NumberFormattingExample.pdb
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\NumberFormattingExample\obj\Debug\NumberFormattingExample.exe
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\NumberFormattingExample\obj\Debug\NumberFormattingExample.pdb
