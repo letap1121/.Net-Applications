@@ -1,0 +1,54 @@
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\bin\Debug\ConsultantNonsense.exe.config
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\bin\Debug\ConsultantNonsense.exe
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\bin\Debug\ConsultantNonsense.pdb
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsense_MarkupCompile.cache
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsense.g.resources
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsense.Properties.Resources.resources
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsenseWPF.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsense.exe
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsense.pdb
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsenseWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\bin\Debug\ConsultantNonsense.exe.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\bin\Debug\ConsultantNonsense.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\bin\Debug\ConsultantNonsense.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsenseWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\obj\Debug\MainWindow.baml
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\obj\Debug\MainWindow.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\obj\Debug\App.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense_MarkupCompile.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense.g.resources
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense.Properties.Resources.resources
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsenseWPF.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\bin\Debug\ConsultantNonsense.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\bin\Debug\ConsultantNonsense.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\bin\Debug\ConsultantNonsense.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsenseWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense_MarkupCompile.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense.g.resources
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense.Properties.Resources.resources
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsenseWPF.csproj.GenerateResource.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsenseWPF.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\bin\Debug\ConsultantNonsense.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\bin\Debug\ConsultantNonsense.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\bin\Debug\ConsultantNonsense.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsenseWPF.csprojAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\obj\Debug\MainWindow.baml
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\obj\Debug\MainWindow.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\obj\Debug\App.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense_MarkupCompile.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense.g.resources
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense.Properties.Resources.resources
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsenseWPF.csproj.GenerateResource.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsenseWPF.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\ConsultantNonsense\obj\Debug\ConsultantNonsense.pdb

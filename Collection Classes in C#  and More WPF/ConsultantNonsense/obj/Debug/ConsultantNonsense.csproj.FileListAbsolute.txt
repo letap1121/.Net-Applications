@@ -1,0 +1,13 @@
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\bin\Debug\ConsultantNonsense.exe.config
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\bin\Debug\ConsultantNonsense.exe
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\bin\Debug\ConsultantNonsense.pdb
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsense.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsense_MarkupCompile.cache
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsense.g.resources
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsense.Properties.Resources.resources
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsense.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsense.exe
+C:\Users\azoko\Desktop\Class3\ConsultantNonsense\obj\Debug\ConsultantNonsense.pdb

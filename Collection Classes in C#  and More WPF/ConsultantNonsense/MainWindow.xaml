@@ -1,0 +1,10 @@
+﻿<Window x:Class="ConsultantNonsense.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Consultant Nonsense" Height="350" Width="650">
+    <Grid>
+        <Button x:Name="btnGenerateNonsense" Content="Generate Nonsense" HorizontalAlignment="Left" Margin="234,200,0,0" VerticalAlignment="Top" Width="173" FontSize="18" Click="btnGenerateNonsense_Click"/>
+        <TextBlock x:Name="txtNonsense" HorizontalAlignment="Left" Margin="183,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="100" Width="293" FontSize="20"/>
+
+    </Grid>
+</Window>
