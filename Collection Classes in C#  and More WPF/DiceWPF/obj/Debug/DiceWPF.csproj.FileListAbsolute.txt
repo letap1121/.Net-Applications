@@ -1,0 +1,102 @@
+C:\Users\azoko\Desktop\Class3\DiceWPF\bin\Debug\DiceWPF.exe.config
+C:\Users\azoko\Desktop\Class3\DiceWPF\bin\Debug\DiceWPF.exe
+C:\Users\azoko\Desktop\Class3\DiceWPF\bin\Debug\DiceWPF.pdb
+C:\Users\azoko\Desktop\Class3\DiceWPF\obj\Debug\DiceWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Class3\DiceWPF\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Class3\DiceWPF\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Class3\DiceWPF\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Class3\DiceWPF\obj\Debug\DiceWPF_MarkupCompile.cache
+C:\Users\azoko\Desktop\Class3\DiceWPF\obj\Debug\DiceWPF.g.resources
+C:\Users\azoko\Desktop\Class3\DiceWPF\obj\Debug\DiceWPF.Properties.Resources.resources
+C:\Users\azoko\Desktop\Class3\DiceWPF\obj\Debug\DiceWPF.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\Class3\DiceWPF\obj\Debug\DiceWPF.exe
+C:\Users\azoko\Desktop\Class3\DiceWPF\obj\Debug\DiceWPF.pdb
+C:\Users\azoko\Desktop\Class3\DiceWPF\bin\Debug\Images\1.jpg
+C:\Users\azoko\Desktop\Class3\DiceWPF\bin\Debug\Images\2.jpg
+C:\Users\azoko\Desktop\Class3\DiceWPF\bin\Debug\Images\3.jpg
+C:\Users\azoko\Desktop\Class3\DiceWPF\bin\Debug\Images\4.jpg
+C:\Users\azoko\Desktop\Class3\DiceWPF\bin\Debug\Images\5.jpg
+C:\Users\azoko\Desktop\Class3\DiceWPF\bin\Debug\Images\6.jpg
+C:\Users\azoko\Desktop\Class3\DiceWPF\obj\Debug\DiceWPF_Content.g.cs
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\bin\Debug\DiceWPF.exe.config
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\obj\Debug\DiceWPF.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\obj\Debug\DiceWPF.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\bin\Debug\Images\1.jpg
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\bin\Debug\Images\2.jpg
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\bin\Debug\Images\3.jpg
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\bin\Debug\Images\4.jpg
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\bin\Debug\Images\5.jpg
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\bin\Debug\Images\6.jpg
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\bin\Debug\DiceWPF.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\bin\Debug\DiceWPF.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\obj\Debug\DiceWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\obj\Debug\DiceWPF_Content.g.cs
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\obj\Debug\DiceWPF_MarkupCompile.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\obj\Debug\DiceWPF.g.resources
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\obj\Debug\DiceWPF.Properties.Resources.resources
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DiceWPF\obj\Debug\DiceWPF.csproj.GenerateResource.Cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\bin\Debug\DiceWPF.exe.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\obj\Debug\DiceWPF.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\obj\Debug\DiceWPF.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\bin\Debug\Images\1.jpg
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\bin\Debug\Images\2.jpg
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\bin\Debug\Images\3.jpg
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\bin\Debug\Images\4.jpg
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\bin\Debug\Images\5.jpg
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\bin\Debug\Images\6.jpg
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\bin\Debug\DiceWPF.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\bin\Debug\DiceWPF.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\obj\Debug\DiceWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\obj\Debug\MainWindow.baml
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\obj\Debug\MainWindow.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\obj\Debug\App.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\obj\Debug\DiceWPF_Content.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\obj\Debug\DiceWPF_MarkupCompile.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\obj\Debug\DiceWPF.g.resources
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\obj\Debug\DiceWPF.Properties.Resources.resources
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DiceWPF\obj\Debug\DiceWPF.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\bin\Debug\Images\1.jpg
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\bin\Debug\Images\2.jpg
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\bin\Debug\Images\3.jpg
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\bin\Debug\Images\4.jpg
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\bin\Debug\Images\5.jpg
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\bin\Debug\Images\6.jpg
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\bin\Debug\DiceWPF.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\bin\Debug\DiceWPF.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\bin\Debug\DiceWPF.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\obj\Debug\DiceWPF_Content.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\obj\Debug\DiceWPF_MarkupCompile.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\obj\Debug\DiceWPF.g.resources
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\obj\Debug\DiceWPF.Properties.Resources.resources
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\obj\Debug\DiceWPF.csproj.GenerateResource.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\obj\Debug\DiceWPF.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\obj\Debug\DiceWPF.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\obj\Debug\DiceWPF.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DiceWPF\obj\Debug\DiceWPF.csprojResolveAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\bin\Debug\Images\1.jpg
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\bin\Debug\Images\2.jpg
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\bin\Debug\Images\3.jpg
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\bin\Debug\Images\4.jpg
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\bin\Debug\Images\5.jpg
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\bin\Debug\Images\6.jpg
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\bin\Debug\DiceWPF.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\bin\Debug\DiceWPF.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\bin\Debug\DiceWPF.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\obj\Debug\DiceWPF.csprojAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\obj\Debug\MainWindow.baml
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\obj\Debug\App.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\obj\Debug\DiceWPF_Content.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\obj\Debug\DiceWPF_MarkupCompile.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\obj\Debug\DiceWPF.g.resources
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\obj\Debug\DiceWPF.Properties.Resources.resources
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\obj\Debug\DiceWPF.csproj.GenerateResource.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\obj\Debug\DiceWPF.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\obj\Debug\DiceWPF.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DiceWPF\obj\Debug\DiceWPF.pdb
