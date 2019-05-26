@@ -1,0 +1,25 @@
+﻿<Window x:Class="StackVsQueueWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Stack vs Queue Visualized" Height="600" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200px"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200px"></RowDefinition>
+            <RowDefinition Height="200px"></RowDefinition>
+            <RowDefinition Height="200px"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="1" x:Name="txtQueueContents" HorizontalAlignment="Left" Margin="30,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="73" Width="435" FontSize="22"/>
+        <Label Grid.Row="0" Grid.Column="0" Content="QUEUE:" HorizontalAlignment="Left" Margin="29,52,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Grid.Row="2" Grid.Column="0" Content="STACK:" HorizontalAlignment="Left" Margin="29,52,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBlock x:Name="txtStackContents" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left" Margin="30,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="73" Width="435" FontSize="22"/>
+        <Label Content="Add Item to Both:" Grid.Column="1" HorizontalAlignment="Left" Margin="30,31,0,0" Grid.Row="1" VerticalAlignment="Top" Width="151" FontSize="18"/>
+        <TextBox x:Name="txtLetter" Grid.Column="1" HorizontalAlignment="Left" Height="37" Margin="30,70,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" FontSize="18"/>
+        <Button x:Name="btnAddToBoth" Content="Add to Both Lists" Grid.Column="1" HorizontalAlignment="Left" Margin="30,112,0,0" Grid.Row="1" VerticalAlignment="Top" Width="181" Click="btnAddToBoth_Click" FontSize="18"/>
+        <TextBlock x:Name="txtRemoveStack" Grid.Column="1" HorizontalAlignment="Left" Margin="496,55,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Height="70"/>
+        <Button x:Name="btnRemove" Content="Remove Item" Grid.Column="1" HorizontalAlignment="Left" Margin="235,112,0,0" Grid.Row="1" VerticalAlignment="Top" Width="181" FontSize="18" Click="btnRemove_Click"/>
+    </Grid>
+</Window>

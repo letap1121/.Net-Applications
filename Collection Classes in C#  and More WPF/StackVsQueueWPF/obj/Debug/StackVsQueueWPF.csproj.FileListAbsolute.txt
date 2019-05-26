@@ -1,0 +1,66 @@
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.exe.config
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.exe
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.pdb
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF_MarkupCompile.cache
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.g.resources
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.Properties.Resources.resources
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.exe
+C:\Users\azoko\Desktop\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.exe.config
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF_MarkupCompile.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.g.resources
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.Properties.Resources.resources
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.csproj.GenerateResource.Cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.exe.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\obj\Debug\MainWindow.baml
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\obj\Debug\MainWindow.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\obj\Debug\App.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF_MarkupCompile.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.g.resources
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.Properties.Resources.resources
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF_MarkupCompile.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.g.resources
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.Properties.Resources.resources
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.csproj.GenerateResource.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\bin\Debug\StackVsQueueWPF.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\obj\Debug\MainWindow.baml
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\obj\Debug\App.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF_MarkupCompile.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.g.resources
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.Properties.Resources.resources
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.csproj.GenerateResource.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\StackVsQueueWPF\obj\Debug\StackVsQueueWPF.pdb
