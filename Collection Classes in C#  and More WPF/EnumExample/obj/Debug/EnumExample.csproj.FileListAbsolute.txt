@@ -1,0 +1,32 @@
+C:\Users\azoko\Desktop\Class3\EnumExample\bin\Debug\EnumExample.exe.config
+C:\Users\azoko\Desktop\Class3\EnumExample\bin\Debug\EnumExample.exe
+C:\Users\azoko\Desktop\Class3\EnumExample\bin\Debug\EnumExample.pdb
+C:\Users\azoko\Desktop\Class3\EnumExample\obj\Debug\EnumExample.exe
+C:\Users\azoko\Desktop\Class3\EnumExample\obj\Debug\EnumExample.pdb
+C:\Users\azoko\Desktop\Class3\EnumExample\obj\Debug\EnumExample.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\EnumExample\bin\Debug\EnumExample.exe.config
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\EnumExample\obj\Debug\EnumExample.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\EnumExample\obj\Debug\EnumExample.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\EnumExample\bin\Debug\EnumExample.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\EnumExample\bin\Debug\EnumExample.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\EnumExample\obj\Debug\EnumExample.csprojResolveAssemblyReference.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\EnumExample\bin\Debug\EnumExample.exe.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\EnumExample\obj\Debug\EnumExample.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\EnumExample\obj\Debug\EnumExample.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\EnumExample\bin\Debug\EnumExample.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\EnumExample\bin\Debug\EnumExample.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\EnumExample\obj\Debug\EnumExample.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\EnumExample\bin\Debug\EnumExample.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\EnumExample\bin\Debug\EnumExample.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\EnumExample\bin\Debug\EnumExample.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\EnumExample\obj\Debug\EnumExample.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\EnumExample\obj\Debug\EnumExample.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\EnumExample\obj\Debug\EnumExample.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\EnumExample\obj\Debug\EnumExample.csprojResolveAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\EnumExample\bin\Debug\EnumExample.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\EnumExample\bin\Debug\EnumExample.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\EnumExample\bin\Debug\EnumExample.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\EnumExample\obj\Debug\EnumExample.csprojAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\EnumExample\obj\Debug\EnumExample.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\EnumExample\obj\Debug\EnumExample.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\EnumExample\obj\Debug\EnumExample.pdb
