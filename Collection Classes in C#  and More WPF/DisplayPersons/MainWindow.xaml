@@ -1,0 +1,22 @@
+﻿<Window x:Class="DisplayPersons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Manage People" Height="600" Width="525">
+    <Grid>
+        <ComboBox x:Name="cboPerson" HorizontalAlignment="Left" Margin="132,29,0,0" VerticalAlignment="Top" Width="253" SelectionChanged="cboPerson_SelectionChanged"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="132,70,0,0" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="185,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="197"/>
+        <GroupBox x:Name="grpGender" Header="Gender" HorizontalAlignment="Left" Margin="132,126,0,0" VerticalAlignment="Top" Height="51" Width="250">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <RadioButton x:Name="radM" Content="Male" HorizontalAlignment="Left" Height="14" />
+                <RadioButton x:Name="radF" Content="Female" HorizontalAlignment="Left" Height="14" Margin="5,0,0,0"/>
+            </StackPanel>
+        </GroupBox>
+        <Label Content="Age" HorizontalAlignment="Left" Margin="138,200,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtAge" HorizontalAlignment="Left" Height="23" Margin="174,204,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198"/>
+        <Button x:Name="btnHaveBirthday" Content="Have Birthday" HorizontalAlignment="Left" Margin="255,263,0,0" VerticalAlignment="Top" Width="98" Click="btnHaveBirthday_Click"/>
+        <Button x:Name="btnAddPerson" Content="Add Person" HorizontalAlignment="Left" Margin="255,299,0,0" VerticalAlignment="Top" Width="98" Click="btnAddPerson_Click"/>
+        <Button x:Name="bthDeletePerson" Content="Delete Person" HorizontalAlignment="Left" Margin="255,336,0,0" VerticalAlignment="Top" Width="98" Click="bthDeletePerson_Click"/>
+
+    </Grid>
+</Window>

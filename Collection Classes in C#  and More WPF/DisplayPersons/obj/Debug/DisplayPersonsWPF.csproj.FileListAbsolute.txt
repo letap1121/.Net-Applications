@@ -1,0 +1,67 @@
+C:\Users\azoko\Desktop\Class3\DisplayPersons\bin\Debug\DisplayPersons.exe.config
+C:\Users\azoko\Desktop\Class3\DisplayPersons\bin\Debug\DisplayPersons.exe
+C:\Users\azoko\Desktop\Class3\DisplayPersons\bin\Debug\DisplayPersons.pdb
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersons_MarkupCompile.cache
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersons.g.resources
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersons.Properties.Resources.resources
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersonsWPF.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersons.exe
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersons.pdb
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersonsWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\bin\Debug\DisplayPersons.exe.config
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\obj\Debug\DisplayPersons.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\obj\Debug\DisplayPersons.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\bin\Debug\DisplayPersons.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\bin\Debug\DisplayPersons.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\obj\Debug\DisplayPersonsWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\obj\Debug\DisplayPersons_MarkupCompile.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\obj\Debug\DisplayPersons.g.resources
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\obj\Debug\DisplayPersons.Properties.Resources.resources
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\DisplayPersons\obj\Debug\DisplayPersonsWPF.csproj.GenerateResource.Cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\bin\Debug\DisplayPersons.exe.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\obj\Debug\DisplayPersons.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\obj\Debug\DisplayPersons.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\bin\Debug\DisplayPersons.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\bin\Debug\DisplayPersons.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\obj\Debug\DisplayPersonsWPF.csprojResolveAssemblyReference.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\obj\Debug\MainWindow.baml
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\obj\Debug\MainWindow.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\obj\Debug\App.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\obj\Debug\DisplayPersons_MarkupCompile.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\obj\Debug\DisplayPersons.g.resources
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\obj\Debug\DisplayPersons.Properties.Resources.resources
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\DisplayPersons\obj\Debug\DisplayPersonsWPF.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\bin\Debug\DisplayPersons.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\bin\Debug\DisplayPersons.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\bin\Debug\DisplayPersons.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\obj\Debug\DisplayPersons_MarkupCompile.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\obj\Debug\DisplayPersons.g.resources
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\obj\Debug\DisplayPersons.Properties.Resources.resources
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\obj\Debug\DisplayPersonsWPF.csproj.GenerateResource.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\obj\Debug\DisplayPersonsWPF.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\obj\Debug\DisplayPersons.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\obj\Debug\DisplayPersons.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\DisplayPersons\obj\Debug\DisplayPersonsWPF.csprojResolveAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\bin\Debug\DisplayPersons.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\bin\Debug\DisplayPersons.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\bin\Debug\DisplayPersons.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\obj\Debug\DisplayPersonsWPF.csprojAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\obj\Debug\MainWindow.baml
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\obj\Debug\MainWindow.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\obj\Debug\App.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\obj\Debug\DisplayPersons_MarkupCompile.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\obj\Debug\DisplayPersons.g.resources
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\obj\Debug\DisplayPersons.Properties.Resources.resources
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\obj\Debug\DisplayPersonsWPF.csproj.GenerateResource.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\obj\Debug\DisplayPersonsWPF.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\obj\Debug\DisplayPersons.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\DisplayPersons\obj\Debug\DisplayPersons.pdb

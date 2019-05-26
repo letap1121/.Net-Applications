@@ -1,0 +1,13 @@
+C:\Users\azoko\Desktop\Class3\DisplayPersons\bin\Debug\DisplayPersons.exe.config
+C:\Users\azoko\Desktop\Class3\DisplayPersons\bin\Debug\DisplayPersons.exe
+C:\Users\azoko\Desktop\Class3\DisplayPersons\bin\Debug\DisplayPersons.pdb
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersons_MarkupCompile.cache
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersons.g.resources
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersons.Properties.Resources.resources
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersons.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersons.exe
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersons.pdb
+C:\Users\azoko\Desktop\Class3\DisplayPersons\obj\Debug\DisplayPersons.csprojResolveAssemblyReference.cache
