@@ -1,0 +1,13 @@
+﻿<Window x:Class="ConvertTemp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Temp Converter" Height="350" Width="323">
+    <Grid Margin="0,0,2,0">
+        <TextBox x:Name="txtCel" HorizontalAlignment="Left" Height="23" Margin="46,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="216"/>
+        <Label Content="Celsius Temperature" HorizontalAlignment="Left" Margin="46,64,0,0" VerticalAlignment="Top" Width="231"/>
+        <TextBox x:Name="txtFahr" HorizontalAlignment="Left" Height="23" Margin="46,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="216" IsEnabled="False"/>
+        <Label Content="Farenheit Temperature" HorizontalAlignment="Left" Margin="46,156,0,0" VerticalAlignment="Top" Width="216"/>
+        <Button x:Name="btnConvert" Content="Convert Temperature" HorizontalAlignment="Left" Margin="46,213,0,0" VerticalAlignment="Top" Width="231" Height="32" IsCancel="True" Click="btnConvert_Click"/>
+
+    </Grid>
+</Window>

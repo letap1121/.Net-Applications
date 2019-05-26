@@ -1,0 +1,99 @@
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\bin\Debug\ConvertTemp2.exe.config
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\bin\Debug\ConvertTemp2.exe
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\bin\Debug\ConvertTemp2.pdb
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\obj\Debug\MainWindow.baml
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\obj\Debug\App.baml
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\obj\Debug\MainWindow.g.cs
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\obj\Debug\App.g.cs
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2_MarkupCompile.cache
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2.g.resources
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2.exe
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2.pdb
+C:\Users\Anthony\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\bin\Debug\ConvertTemp2.exe.config
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\bin\Debug\ConvertTemp2.exe
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\bin\Debug\ConvertTemp2.pdb
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\obj\Debug\App.baml
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2_MarkupCompile.cache
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2.g.resources
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2.Properties.Resources.resources
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2.exe
+C:\Users\azoko\Desktop\Class2\ConvertTemp2\obj\Debug\ConvertTemp2.pdb
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.exe.config
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.exe
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.pdb
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\obj\Debug\MainWindow.baml
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\obj\Debug\App.baml
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\obj\Debug\App.g.cs
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2_MarkupCompile.cache
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.g.resources
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.Properties.Resources.resources
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.csproj.GenerateResource.Cache
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.exe
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.pdb
+C:\Users\azoko\SkyDrive\Teaching\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.exe.config
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\obj\Debug\App.baml
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2_MarkupCompile.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.g.resources
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.Properties.Resources.resources
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.csproj.GenerateResource.Cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.exe.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.csprojResolveAssemblyReference.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\obj\Debug\MainWindow.baml
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\obj\Debug\App.baml
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\obj\Debug\MainWindow.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\obj\Debug\App.g.cs
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2_MarkupCompile.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.g.resources
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.Properties.Resources.resources
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.csproj.GenerateResource.Cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\obj\Debug\MainWindow.baml
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\obj\Debug\App.baml
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\obj\Debug\MainWindow.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\obj\Debug\App.g.cs
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2_MarkupCompile.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.g.resources
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.Properties.Resources.resources
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.csproj.GenerateResource.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\bin\Debug\ConvertTemp2.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.csprojAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\obj\Debug\MainWindow.baml
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\obj\Debug\App.baml
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\obj\Debug\MainWindow.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\obj\Debug\App.g.cs
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2_MarkupCompile.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.g.resources
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.Properties.Resources.resources
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.csproj.GenerateResource.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 2\ConvertTemp2\obj\Debug\ConvertTemp2.pdb
