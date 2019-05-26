@@ -1,0 +1,31 @@
+C:\Users\azoko\Desktop\Class3\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\azoko\Desktop\Class3\WordCount\bin\Debug\WordCount.exe
+C:\Users\azoko\Desktop\Class3\WordCount\bin\Debug\WordCount.pdb
+C:\Users\azoko\Desktop\Class3\WordCount\obj\Debug\WordCount.exe
+C:\Users\azoko\Desktop\Class3\WordCount\obj\Debug\WordCount.pdb
+C:\Users\azoko\Desktop\Class3\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\WordCount\obj\Debug\WordCount.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\WordCount\obj\Debug\WordCount.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\WordCount\bin\Debug\WordCount.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\WordCount\bin\Debug\WordCount.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class3\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\WordCount\obj\Debug\WordCount.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\WordCount\obj\Debug\WordCount.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\WordCount\bin\Debug\WordCount.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\WordCount\bin\Debug\WordCount.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 3\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\WordCount\bin\Debug\WordCount.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\WordCount\bin\Debug\WordCount.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\WordCount\obj\Debug\WordCount.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\WordCount\obj\Debug\WordCount.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\WordCount\bin\Debug\WordCount.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\WordCount\bin\Debug\WordCount.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\WordCount\obj\Debug\WordCount.csprojAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\WordCount\obj\Debug\WordCount.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\WordCount\obj\Debug\WordCount.pdb
