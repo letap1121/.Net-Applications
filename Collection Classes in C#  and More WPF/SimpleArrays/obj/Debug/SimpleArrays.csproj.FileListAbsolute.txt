@@ -1,0 +1,17 @@
+C:\Users\azoko\Desktop\Class3\SimpleArrays\bin\Debug\SimpleArrays.exe.config
+C:\Users\azoko\Desktop\Class3\SimpleArrays\bin\Debug\SimpleArrays.exe
+C:\Users\azoko\Desktop\Class3\SimpleArrays\bin\Debug\SimpleArrays.pdb
+C:\Users\azoko\Desktop\Class3\SimpleArrays\obj\Debug\SimpleArrays.exe
+C:\Users\azoko\Desktop\Class3\SimpleArrays\obj\Debug\SimpleArrays.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\SimpleArrays\bin\Debug\SimpleArrays.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\SimpleArrays\bin\Debug\SimpleArrays.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\SimpleArrays\bin\Debug\SimpleArrays.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\SimpleArrays\obj\Debug\SimpleArrays.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\SimpleArrays\obj\Debug\SimpleArrays.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 3\SimpleArrays\obj\Debug\SimpleArrays.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\SimpleArrays\bin\Debug\SimpleArrays.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\SimpleArrays\bin\Debug\SimpleArrays.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\SimpleArrays\bin\Debug\SimpleArrays.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\SimpleArrays\obj\Debug\SimpleArrays.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\SimpleArrays\obj\Debug\SimpleArrays.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 3\SimpleArrays\obj\Debug\SimpleArrays.pdb
