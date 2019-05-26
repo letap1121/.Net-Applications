@@ -1,0 +1,18 @@
+﻿<Window x:Class="HelloWPF2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Hello WPF!" Height="600" Width="800">
+    <Grid Background="CadetBlue">
+        <Label Content="HELLO WORLD!" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Century Gothic" FontSize="80">
+            <Label.Foreground>
+                <VisualBrush >
+                    <VisualBrush.Visual>
+                        <!--Make sure to set the wmv file 'Copy to Output Directory' to true.-->
+                        <MediaElement Source="WD0267.wmv" Name="backGroundVideo" LoadedBehavior="Play"></MediaElement>
+                    </VisualBrush.Visual>
+                </VisualBrush>
+            </Label.Foreground>
+        </Label>
+
+    </Grid>
+</Window>
