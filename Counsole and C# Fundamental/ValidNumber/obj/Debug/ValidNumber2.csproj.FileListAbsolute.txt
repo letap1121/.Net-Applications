@@ -1,0 +1,21 @@
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ValidNumber2\bin\Debug\ValidNumber2.exe.config
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ValidNumber2\bin\Debug\ValidNumber2.exe
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ValidNumber2\bin\Debug\ValidNumber2.pdb
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ValidNumber2\obj\Debug\ValidNumber2.csprojAssemblyReference.cache
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ValidNumber2\obj\Debug\ValidNumber2.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ValidNumber2\obj\Debug\ValidNumber2.exe
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ValidNumber2\obj\Debug\ValidNumber2.pdb
+\\vmware-host\Shared Folders\Desktop\Class 1\ValidNumber2\bin\Debug\ValidNumber2.exe.config
+\\vmware-host\Shared Folders\Desktop\Class 1\ValidNumber2\bin\Debug\ValidNumber2.exe
+\\vmware-host\Shared Folders\Desktop\Class 1\ValidNumber2\bin\Debug\ValidNumber2.pdb
+\\vmware-host\Shared Folders\Desktop\Class 1\ValidNumber2\obj\Debug\ValidNumber2.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Class 1\ValidNumber2\obj\Debug\ValidNumber2.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\Class 1\ValidNumber2\obj\Debug\ValidNumber2.exe
+\\vmware-host\Shared Folders\Desktop\Class 1\ValidNumber2\obj\Debug\ValidNumber2.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ValidNumber2\bin\Debug\ValidNumber2.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ValidNumber2\bin\Debug\ValidNumber2.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ValidNumber2\bin\Debug\ValidNumber2.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ValidNumber2\obj\Debug\ValidNumber2.csprojAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ValidNumber2\obj\Debug\ValidNumber2.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ValidNumber2\obj\Debug\ValidNumber2.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ValidNumber2\obj\Debug\ValidNumber2.pdb
