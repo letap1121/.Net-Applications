@@ -1,0 +1,7 @@
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ClickCounter3\bin\Debug\ClickCounter3.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ClickCounter3\bin\Debug\ClickCounter3.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ClickCounter3\bin\Debug\ClickCounter3.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ClickCounter3\obj\Debug\ClickCounter3.csprojAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ClickCounter3\obj\Debug\ClickCounter3.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ClickCounter3\obj\Debug\ClickCounter3.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ClickCounter3\obj\Debug\ClickCounter3.pdb

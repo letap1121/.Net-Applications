@@ -1,0 +1,24 @@
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\ConvertTemp1\bin\Debug\ConvertTemp1.exe.config
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\ConvertTemp1\bin\Debug\ConvertTemp1.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\ConvertTemp1\bin\Debug\ConvertTemp1.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\ConvertTemp1\obj\Debug\ConvertTemp1.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\ConvertTemp1\obj\Debug\ConvertTemp1.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\ConvertTemp1\bin\Debug\ConvertTemp1.exe.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\ConvertTemp1\obj\Debug\ConvertTemp1.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\ConvertTemp1\obj\Debug\ConvertTemp1.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\ConvertTemp1\bin\Debug\ConvertTemp1.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\ConvertTemp1\bin\Debug\ConvertTemp1.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\ConvertTemp1\bin\Debug\ConvertTemp1.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\ConvertTemp1\bin\Debug\ConvertTemp1.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\ConvertTemp1\bin\Debug\ConvertTemp1.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\ConvertTemp1\obj\Debug\ConvertTemp1.csprojResolveAssemblyReference.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\ConvertTemp1\obj\Debug\ConvertTemp1.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\ConvertTemp1\obj\Debug\ConvertTemp1.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\ConvertTemp1\obj\Debug\ConvertTemp1.pdb
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ConvertTemp1\bin\Debug\ConvertTemp1.exe.config
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ConvertTemp1\bin\Debug\ConvertTemp1.exe
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ConvertTemp1\bin\Debug\ConvertTemp1.pdb
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ConvertTemp1\obj\Debug\ConvertTemp1.csprojAssemblyReference.cache
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ConvertTemp1\obj\Debug\ConvertTemp1.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ConvertTemp1\obj\Debug\ConvertTemp1.exe
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\ConvertTemp1\obj\Debug\ConvertTemp1.pdb

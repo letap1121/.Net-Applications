@@ -1,0 +1,7 @@
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ConvertTemp\bin\Debug\ConvertTemp1.exe.config
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ConvertTemp\bin\Debug\ConvertTemp1.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ConvertTemp\bin\Debug\ConvertTemp1.pdb
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ConvertTemp\obj\Debug\ConvertTemp.csprojAssemblyReference.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ConvertTemp\obj\Debug\ConvertTemp.csproj.CoreCompileInputs.cache
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ConvertTemp\obj\Debug\ConvertTemp1.exe
+C:\Users\ovosa\OneDrive\Desktop\Lecture\Class 1\ConvertTemp\obj\Debug\ConvertTemp1.pdb

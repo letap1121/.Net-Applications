@@ -1,0 +1,24 @@
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\Intrinsic\bin\Debug\Intrinsic.exe.config
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\Intrinsic\bin\Debug\Intrinsic.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\Intrinsic\bin\Debug\Intrinsic.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\Intrinsic\obj\Debug\Intrinsic.exe
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\Intrinsic\obj\Debug\Intrinsic.pdb
+C:\Users\azoko\Desktop\Classes\IT 330\Class 1\Class 1\Intrinsic\obj\Debug\Intrinsic.csprojResolveAssemblyReference.cache
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\Intrinsic\bin\Debug\Intrinsic.exe.config
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\Intrinsic\obj\Debug\Intrinsic.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\Intrinsic\obj\Debug\Intrinsic.pdb
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\Intrinsic\bin\Debug\Intrinsic.exe
+C:\Users\azoko.CSTCIS\Desktop\IT 330\Class 1\Class 1\Intrinsic\bin\Debug\Intrinsic.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\Intrinsic\bin\Debug\Intrinsic.exe.config
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\Intrinsic\bin\Debug\Intrinsic.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\Intrinsic\bin\Debug\Intrinsic.pdb
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\Intrinsic\obj\Debug\Intrinsic.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\Intrinsic\obj\Debug\Intrinsic.exe
+C:\Users\azoko\Desktop\SPRING\IT 330\CODE\Class 1\Class 1\Intrinsic\obj\Debug\Intrinsic.pdb
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\Intrinsic\bin\Debug\Intrinsic.exe.config
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\Intrinsic\bin\Debug\Intrinsic.exe
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\Intrinsic\bin\Debug\Intrinsic.pdb
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\Intrinsic\obj\Debug\Intrinsic.csprojAssemblyReference.cache
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\Intrinsic\obj\Debug\Intrinsic.csproj.CoreCompileInputs.cache
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\Intrinsic\obj\Debug\Intrinsic.exe
+C:\Users\azoko\Desktop\Spring 2019\IT 330\CODE\Class 1\Class 1\Intrinsic\obj\Debug\Intrinsic.pdb
